@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Space-Rocket/",
+    "build": "vite build --base=/magic-of-photography/",
     "preview": "vite preview"
   },
   "devDependencies": {
